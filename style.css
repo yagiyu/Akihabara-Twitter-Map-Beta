@@ -1,0 +1,9 @@
+#map {
+  height: 100%;
+  width: 100%;
+}
+
+.name, .screen_name {
+  font-weight: bold;
+  font-size: large;
+}
