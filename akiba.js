@@ -1,6 +1,4 @@
 $(function() {
-
-
   var center = new google.maps.LatLng(35.698683, 139.774219);
 
   /* Google Map */
